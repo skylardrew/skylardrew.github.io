@@ -1,0 +1,20 @@
+
+h1{
+    font-size: 72px;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+.Emma{
+    font-size: 36px;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}
+
+body{
+    margin: 7cm;
+    background-color:antiquewhite;
+}
+
+.address{
+    text-align: end;
+}
