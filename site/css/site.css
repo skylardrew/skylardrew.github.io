@@ -1,0 +1,59 @@
+header{
+    text-align:center;
+    font-family: Quicksand;
+}
+body{
+    background-color: lavender;
+    margin: 0 5cm 0;
+    font-family: Quicksand; 
+    font-size:large;
+}
+
+h1{
+    text-align: center;
+}
+
+.img-fluid{
+    width: 300px;
+    height:auto;
+    margin-bottom:15px;
+    margin-left: 50px;
+}
+
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align:center;
+}
+
+.Socials{
+    text-align: center;
+}
+
+.Contact{
+    text-align: center;
+}
+
+.Resume{
+background-color: white;
+text-align: center;
+}
+
+.Skills{
+    background-color: white;
+}
+
+span{
+font-weight: 600;
+}
+
+.articles{
+    text-align: center;
+}
