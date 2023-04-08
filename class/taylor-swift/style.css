@@ -1,0 +1,91 @@
+header {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #0E171A;
+    color: #fff;
+    margin-bottom: 50px;
+    font-family: Cabin Condensed, sans-serif;
+    font-weight: 700;
+}
+
+.chart {
+    padding: 50px 100px 20px;
+}
+
+header p {
+    font-size: .65em;
+    font-weight: 100;
+    letter-spacing: 1.5px;
+    margin-top: 35px;
+}
+
+body{
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 700;
+    font-family: Cabin Condensed, sans-serif;
+}
+
+h3 {
+    font-size: 1.25em;
+    text-transform: uppercase;
+    font-family: Cabin Condensed, sans-serif;
+    font-weight: 700;
+}
+
+h4 {
+    text-align: center;
+    color: #B2322D;
+    font-size: 1.25em;
+}
+
+.scroll {
+    text-align: center;
+}
+
+.timeline{
+    padding-bottom: 20px;
+    letter-spacing: .95px;
+}
+.timeline h2,
+.timeline p {
+    border-left: 3.5px #B2322D;
+    border-left-style: solid;
+    padding-left: 1em;
+    font-family: Cabin Condensed, sans-serif;
+}
+
+.timeline b{
+    background-color: #B2322D;
+    color: #fff;
+    font-weight: 500;
+    font-family: Cabin Condensed, sans-serif;
+    letter-spacing: 1.5px;
+    border-left: 3.5px #B2322D;
+    border-left-style: solid;
+    padding-left: 1em;
+    margin-left: 20px;
+}
+
+a {
+    color: #0E171A;
+    text-decoration: underline;
+    text-decoration-color: #0E171A;
+}
+
+a:hover {
+    color: #B2322D;
+}
+
+.research{
+    font-size: .8em;
+    text-align: center;
+}
